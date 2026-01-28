@@ -1,6 +1,6 @@
-# Adira Report
+# Monthly Sales Report
 
-A Laravel-based reporting application used to manage daily and monthly vehicle reports for Adira.
+A Laravel-based reporting application used to manage daily and monthly vehicle reports.
 
 ## Ringkasan
 - Framework: Laravel
